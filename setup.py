@@ -13,14 +13,14 @@ except Exception:
 setup(
     name='seriousity',
     packages=find_packages('.'),
-    version='1.0.0',
+    version='1.0.1',
     description="Serious tool for serious people. I'm serious.",
     long_description=long_description,
     long_description_content_type='text/markdown',
     author='voilalex',
     author_email='ilya.vouk@gmail.com',
-    url='https://github.com/VoIlAlex',
-    download_url='https://github.com/VoIlAlex/archive/v1.0.0.tar.gz',
+    url='https://github.com/VoIlAlex/seriousity',
+    download_url='https://github.com/VoIlAlex/archive/v1.0.1.tar.gz',
     keywords=[
         'serious',
         'people',
